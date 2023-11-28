@@ -1,1 +1,1 @@
-echo "hello from guthub :)" > github.txt
+echo "hello from guthub :)" >> github.txt
